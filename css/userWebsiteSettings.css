@@ -1,0 +1,31 @@
+/* 
+  * plugins/generic/userWebsiteSettings/css/userWebsiteSettings.css
+  *
+  * Copyright (c) 2016 Language Science Press
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * style sheet for the User website settings plugin
+}*/
+
+#langsciUserWebsiteSettings {
+	background-color:white;
+	padding:20px;
+	border: 1px solid #999;
+}
+
+#langsciUserWebsiteSettings p.intro {
+	margin-top: 0px;
+}
+
+
+#langsciUserWebsiteSettings .checkbox_and_radiobutton input {
+	float:left;
+	height: 35px;
+}
+
+#langsciUserWebsiteSettings .checkbox_and_radiobutton li {
+	height: 50px;
+}
+
+
+
